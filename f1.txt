@@ -1,0 +1,13 @@
+Python Debugging Practice
+
+This project contains a simple Python program with some errors.
+
+The program is about calculating student marks and average.
+
+The purpose of this project is to practise finding and correcting Python errors.
+
+Language Used: Python
+
+Tools Used: VS Code
+
+Thank You!
